@@ -9,8 +9,7 @@ Custom packages were used for this project which I have removed for confidential
 2. Key Features
 3. Concepts Applied
 4. Technologies Used
-5. Project Structure
-6. Future Enhancements
+5. Future Enhancements
 
 ### Project Overview
 The Library Management System is a console-based application that enables users to manage a library's book inventory efficiently. It supports various functionalities like adding new books, searching for books by name or ISBN, issuing books, returning books, and sorting the book inventory based on different parameters. This project serves as a comprehensive demonstration of fundamental Java programming skills.
@@ -24,7 +23,8 @@ Sorting Options: Sort books by various attributes, including book name, price, a
 Display All Books: List all available books in the library.
 Exception Handling: Robust handling of invalid inputs and operations to ensure smooth user interaction.
 Persistent Storage: Save and load book data using file systems for data persistence (if implemented).
-Concepts Applied
+
+### Concepts Applied
 Object-Oriented Programming (OOP): Implemented OOP principles such as encapsulation, inheritance, and polymorphism using Java classes.
 Collections Framework: Utilized ArrayList for dynamic storage of book records.
 Comparators: Used Comparator for custom sorting of books based on different attributes.
