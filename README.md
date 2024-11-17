@@ -5,12 +5,12 @@ A Java-based Library Management System developed as part of learning and applyin
 Custom packages were used for this project which I have removed for confidentiality purposes.
 
 ### Table of Contents
-Project Overview
-Key Features
-Concepts Applied
-Technologies Used
-Project Structure
-Future Enhancements
+1. Project Overview
+2. Key Features
+3. Concepts Applied
+4. Technologies Used
+5. Project Structure
+6. Future Enhancements
 
 ### Project Overview
 The Library Management System is a console-based application that enables users to manage a library's book inventory efficiently. It supports various functionalities like adding new books, searching for books by name or ISBN, issuing books, returning books, and sorting the book inventory based on different parameters. This project serves as a comprehensive demonstration of fundamental Java programming skills.
